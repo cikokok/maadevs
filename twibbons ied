@@ -4,8 +4,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
@@ -30,32 +30,32 @@
      "Categories": [
     {
       "category": "Hari Nasional",
-      "image_link": "rectangle/farmasi.png"
+      "image_link": "https://archive.org/details/rectangle_202304/farmasi.png"
 
     },
     {
-      "category": "Lain-Lain",
-      "image_link": "rectangle/imlek1.png"
+      "category": "Ied Mubarok",
+      "image_link": "https://archive.org/details/rectangle_202304/imlek1.png"
 
     },
     {
       "category": "Keagamaan",
-      "image_link": "rectangle/israa.png"
+      "image_link": "https://archive.org/details/rectangle_202304/israa.png"
 
     },
     {
       "category": "Kalender",
-      "image_link": "rectangle/kalender1.png"
+      "image_link": "https://archive.org/details/rectangle_202304/kalender1.png"
 
     },
     {
       "category": "Undangan",
-      "image_link":  "portrait/wedding2.png"
+      "image_link":  "https://archive.org/details/portrait_202304/wedding2.png"
 
     },
     {
       "category": "Brosur",
-      "image_link":  "portrait/cuci.png"
+      "image_link":  "https://archive.org/details/portrait_202304/cuci.png"
 
     }
   ],
@@ -66,70 +66,70 @@
       "type": 1,
       "category": "Hari Nasional",
       "title": "Hari Persatuan Farmasi Indonesia",
-      "image_link": "rectangle/farmasi.png"
+      "image_link": "https://archive.org/details/rectangle_202304/farmasi.png"
     },
     {
       "id": 2,
       "type": 1,
       "category": "Hari Nasional",
       "title": "Hari Persatuan Farmasi Indonesia 2",
-      "image_link": "rectangle/farmasi2.png"
+      "image_link": "https://archive.org/details/rectangle_202304/farmasi2.png"
     },
     {
       "id": 3,
       "type": 1,
       "category": "Lain-Lain",
       "title": "Selamat Tahun Baru Imlek",
-      "image_link": "rectangle/imlek1.png"
+      "image_link": "https://archive.org/details/rectangle_202304/imlek1.png"
     },
     {
       "id": 4,
       "type": 1,
       "category": "Lain-Lain",
       "title": "Selamat Tahun Baru Imlek 2",
-      "image_link": "rectangle/imlek2.png"
+      "image_link": "https://archive.org/details/rectangle_202304/imlek2.png"
     },
     {
       "id": 5,
       "type": 1,
       "category": "Keagamaan",
       "title": "Peringatan Isra Mi'raj 1",
-      "image_link": "rectangle/israa.png"
+      "image_link": "https://archive.org/details/rectangle_202304/israa.png"
     },
     {
       "id": 6,
       "type": 1,
       "category": "Keagamaan",
       "title": "Peringatan Isra Mi'raj 2",
-      "image_link": "rectangle/israb.png"
+      "image_link": "https://archive.org/details/rectangle_202304/israb.png"
     },
     {
       "id": 7,
       "type": 1,
       "category": "Kalender",
       "title": "Kalender BTS Maret 2022",
-      "image_link": "rectangle/kalender1.png"
+      "image_link": "https://archive.org/details/rectangle_202304/kalender1.png"
     },
     {
       "id": 8,
       "type": 1,
       "category": "Kalender",
       "title": "Kalender BTS Mei 2022",
-      "image_link": "rectangle/kalender2.png"
+      "image_link": "https://archive.org/details/rectangle_202304/kalender2.png"
     },
     {
       "id": 9,
       "type": 1,
       "category": "Lain-Lain",
       "title": "Harlah NU ke-96",
-      "image_link": "rectangle/nu1.webp"
+      "image_link": "https://archive.org/details/rectangle_202304/nu1.webp"
     },
     {
       "id": 10,
       "type": 1,
       "category": "Lain-Lain",
       "title": "Harlah NU ke-96 2",
-      "image_link": "rectangle/nu2.webp"
+      "image_link": "https://archive.org/details/rectangle_202304/nu2.webp"
     }
   ,
     {
@@ -137,49 +137,49 @@
       "type": 1,
       "category": "Hari Nasional",
       "title": "Hari Pers Nasional",
-      "image_link": "rectangle/pers.png"
+      "image_link": "https://archive.org/details/rectangle_202304/pers.png"
     },
     {
       "id": 12,
       "type": 1,
       "category": "Lain-Lain",
       "title": "1 Tahun Maintenance Vtube",
-      "image_link": "rectangle/vtube1.png"
+      "image_link": "https://archive.org/details/rectangle_202304/vtube1.png"
     },
     {
       "id": 13,
       "type": 1,
       "category": "Lain-Lain",
       "title": "1 Tahun Maintenance Vtube",
-      "image_link": "rectangle/vtube2.png"
+      "image_link": "https://archive.org/details/rectangle_202304/vtube2.png"
     },
     {
       "id": 14,
       "type": 1,
       "category": "Lain-Lain",
       "title": "Wallpaper Imlek",
-      "image_link": "rectangle/wallpaper_imlek.png"
+      "image_link": "https://archive.org/details/rectangle_202304/wallpaper_imlek.png"
     },
     {
       "id": 19,
       "type": 1,
       "category": "Lain-Lain",
       "title": "Wallpaper Imlek 2",
-      "image_link": "rectangle/wallpaper_imlek2.png"
+      "image_link": "https://archive.org/details/rectangle_202304/wallpaper_imlek2.png"
     },
     {
       "id": 15,
       "type": 1,
       "category": "Lain-Lain",
       "title": "Wallpaper Isra Mi'raj",
-      "image_link": "rectangle/wallpaper_isra.png"
+      "image_link": "https://archive.org/details/rectangle_202304/wallpaper_isra.png"
     },
     {
       "id": 16,
       "type": 1,
       "category": "Lain-Lain",
       "title": "Wallpaper Isra Mi'raj 2",
-      "image_link": "rectangle/wallpaper_isra2.png"
+      "image_link": "https://archive.org/details/rectangle_202304/wallpaper_isra2.png"
     }
   ,
     {
@@ -187,28 +187,28 @@
       "type": 1,
       "category": "Lain-Lain",
       "title": "Wallpaper Hari Pers",
-      "image_link": "rectangle/wallpaper_pers.png"
+      "image_link": "https://archive.org/details/rectangle_202304/wallpaper_pers.png"
     },
     {
       "id": 18,
       "type": 1,
       "category": "Lain-Lain",
       "title": "Wallpaper Hari Pers",
-      "image_link": "rectangle/wallpaper_pers2.png"
+      "image_link": "https://archive.org/details/rectangle_202304/wallpaper_pers2.png"
     },
     {
       "id": 20,
       "type": 2,
       "category": "Brosur",
       "title": "Kehilangan Anjing",
-      "image_link": "portrait/dog.png"
+      "image_link": "https://archive.org/details/portrait_202304/dog.png"
     },
     {
       "id": 21,
       "type": 2,
       "category": "Brosur",
       "title": "Pamflet Orderan Ojol",
-      "image_link": "portrait/ojol.png"
+      "image_link": "https://archive.org/details/portrait_202304/ojol.png"
     }
   ,
     {
@@ -216,49 +216,49 @@
       "type": 2,
       "category": "Lain-Lain",
       "title": "Ucapan Selamat",
-      "image_link": "portrait/selamat.png"
+      "image_link": "https://archive.org/details/portrait_202304/selamat.png"
     },
     {
       "id": 24,
       "type": 2,
       "category": "Brosur",
       "title": "Iklan Laundry",
-      "image_link": "portrait/cuci.png"
+      "image_link": "https://archive.org/details/portrait_202304/cuci.png"
     },
     {
       "id": 25,
       "type": 2,
       "category": "Undangan",
       "title": "Undangan Pernikahan",
-      "image_link": "portrait/wedding.png"
+      "image_link": "https://archive.org/details/portrait_202304/wedding.png"
     },
     {
       "id": 25,
       "type": 2,
       "category": "Undangan",
       "title": "Undangan Pernikahan",
-      "image_link": "portrait/wedding2.png"
+      "image_link": "https://archive.org/details/portrait_202304/wedding2.png"
     },
     {
       "id": 26,
       "type": 2,
       "category": "Undangan",
       "title": "Undangan Ulang Tahun",
-      "image_link": "portrait/ultah.png"
+      "image_link": "https://archive.org/details/portrait_202304/ultah.png"
     },
     {
       "id": 27,
       "type": 2,
       "category": "Undangan",
       "title": "Undangan Ulang Tahun",
-      "image_link": "portrait/ultah2.png"
+      "image_link": "https://archive.org/details/portrait_202304/ultah2.png"
     },
     {
       "id": 28,
       "type": 2,
       "category": "Brosur",
       "title": "Desain Flyer",
-      "image_link": "portrait/brosur.png"
+      "image_link": "https://archive.org/details/portrait_202304/brosur.png"
     }
   ]
 }
